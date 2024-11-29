@@ -14,9 +14,9 @@ atom_numaraları={
 	"16": "SULFUR: Most sulfur is used to produce sulfuric acid, which is utilized in making fertilizers, detergents, and other useful compounds. Additionally, sulfur compounds in garlic and onions are responsible for their odor, and due to their sharp smell, they are added to natural gas to help detect leaks. Sulfur also plays a role in hardening natural rubber.",
 	"17": "CHLORINE: Chlorine kills bacteria and other microbes so is used to treat drinking water and swimming pool water. Chlorine is used to produce the plastic PVC, used in window frames, drainpipes, and flooring. It derives its name from the Greek word chloros, meaning greenish-yellow. Chlorine is a toxic green yellow gas. It was used as a chemical weapon during World War I.",
 	"18": "ARGON: It derives its name from the Greek word argos, meaning inactive. Argon is a poor conductor of heat and is used to fill the gaps between panes in double-glazed windows. It is used in welding torches to prevent the welded area from oxidizing and also to preserve historical documents by storing them in special containers filled with argon to prevent oxygen-induced degradation.",
-	
+
 }
-print("enter a word to search (to exist 'q').")
+print("enter a word to a  search (to exist 'q').")
 
 while True:
     aranan_kelime = input("\nthe atom you search: ").strip()
